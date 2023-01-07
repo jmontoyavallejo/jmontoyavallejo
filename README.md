@@ -11,8 +11,9 @@
 ### Connect with me:
 
 
-[website]: [https://codeSTACKr.com](https://lovely-kashata-0525eb.netlify.app/)
-[linkedin]: https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/juan-pablo-montoya-vallejo-6240a0137
+* [My website]([https://nilodio.github.io/Web_Portafolio/](https://lovely-kashata-0525eb.netlify.app/)
+* [GitHub ](https://github.com/jmontoyavallejo)
+* [LinkedIn](https://www.linkedin.com/in/juan-pablo-montoya-vallejo-6240a0137/)
 
 ### Languages and Tools:
 
