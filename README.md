@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-* [My website]([https://nilodio.github.io/Web_Portafolio/](https://lovely-kashata-0525eb.netlify.app/)
+* [Portfolio website](https://lovely-kashata-0525eb.netlify.app/)
 * [GitHub ](https://github.com/jmontoyavallejo)
 * [LinkedIn](https://www.linkedin.com/in/juan-pablo-montoya-vallejo-6240a0137/)
 
