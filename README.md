@@ -27,6 +27,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="[https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHistoria_de_Python&psig=AOvVaw1zacuFim9_8Eu9Kyd_PG0T&ust=1673192217022000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC41O_ktfwCFQAAAAAdAAAAABAE)" style="padding-right:10px;" />
 
 
 
