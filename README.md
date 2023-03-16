@@ -3,7 +3,7 @@
 
 ## I'm a Data Analyst Developer at Essity!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning  cloud computing and ML Ops
 - :wave: I’m looking to collaborate with other people in open source projects
 - 🥅 2023 Goals: Learn more about machine learning
 - ⚡ I love to  play  drums and watch movies
