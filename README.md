@@ -1,7 +1,7 @@
 # Hi there, I'm Juan Pablo Montoya  👋 
 
 
-## I'm a Data Analyst Developer at Essity!!
+## I'm a Data Engineer at Tigo!!
 
 - 🌱 I’m currently learning  cloud computing and ML Ops
 - :wave: I’m looking to collaborate with other people in open source projects
